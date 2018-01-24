@@ -1,4 +1,4 @@
-# dreamos
+# Dream OS
 DREAM OS Linux
  This is far from finished this is where I will be placing modules that need work.
  
